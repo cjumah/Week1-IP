@@ -13,9 +13,14 @@
 ## Setup instructions
     - Git clone is on https://github.com/cjumah/Week1-IP
     - Open Files on VS Code
-    - HTML and CSS used
     - links on Live page provide repositories for Class Practicals
 
+## Technologies used
+    - HTML
+    - CSS
+    - VS code
+    - Git and GitHub
+    
 ## live Link
     https://cjumah.github.io/Week1-IP
 
