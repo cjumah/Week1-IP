@@ -27,6 +27,7 @@ p
 
 p.textsize
     {
-        font-size: small;
+        font-size: medium;
+        background-color: burlywood;
         font-weight: lighter;
     }   
