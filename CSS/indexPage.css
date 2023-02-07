@@ -13,7 +13,20 @@ h6
         text-align: center;
         color: dimgray;
     } 
+img 
+    {
+        width: 200px;
+        border-radius: 10px;
+        float: left;
+        margin: 10px;
+    }
 p   
     {
         text-indent: 0pt;
     }
+
+p.textsize
+    {
+        font-size: small;
+        font-weight: lighter;
+    }   
